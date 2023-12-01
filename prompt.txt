@@ -1,0 +1,5 @@
+This CSV is on one line, I need you to add these keywords to this csv, and on the second column just keep the exact same internal links each time, the keywords are:
+
+[keywords]
+
+"Black Tie Attire For Men","/collections/overcoats;/collections/cesare-attolini;/collections/sweaters;/collections/sneakers;/collections/kiton;/collections/kired;/collections/knt;/collections/suits;/collections/blazers;/collections/pants;/collections/jeans;/collections/coats;/collections/tracksuits;/collections/bags;/collections/cesare-attolini-shirts;/collections/kiton-coats;/collections/fioroni;/collections/polo-shirt;/collections/t-shirts;/collections/boss;/collections/hoodies;/collections/kiton-shoes;/collections/marco-pescarolo;"
